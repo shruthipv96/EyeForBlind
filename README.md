@@ -13,7 +13,11 @@ The dataset used in this project is sourced from Kaggle. It includes a collectio
 3. **Train-Test Split:** Prepare and split the data for training and testing.
 4. **Model Building:** Construct the image captioning model, including the Encoder, Attention, and Decoder components.
 5. **Model Evaluation:** Assess the model's performance using greedy search and beam search.
- 
+
+A sample output looks like:
+
+![SamplePrediction](https://github.com/user-attachments/assets/ed711940-ea95-44cf-ad84-a3e6302b0086)
+
 ## Features
 
 The application will include the following key features:
