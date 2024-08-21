@@ -34,6 +34,16 @@ The project leverages mainly the following technologies:
 - **Pre-trained Models**: Such as those available from ImageNet, to extract features and aid in the caption generation process.
 - **Gtts**: For text to audio conversion
 
+## Conclusion
+In this project, we have successfully developed, trained, optimized, and evaluated a neural network model for image captioning. The comprehensive approach ensures that the model not only generates meaningful captions for images but also handles various aspects of training, evaluation, and optimization efficiently.
+#### Key Achievements:
+- **Implemented Encoder-Decoder architecture** with attention mechanisms for robust image captioning.
+- **Developed a comprehensive training pipeline**, including optimizers, loss functions, and checkpoint management.
+- **Applied Greedy Search and Beam Search** for effective caption generation strategies.
+- **Utilized BLEU scores** for quantitative evaluation of caption quality.
+- **Visualized attention maps** and provided text-to-speech functionality for enhanced model interpretability and usability.
+- **Demonstrated successful model testing** with meaningful captions and detailed performance analysis.
+
 ## Contact
 Created by [Shruthip Venkatesh](https://github.com/shruthipv96) - feel free to contact me!
 
